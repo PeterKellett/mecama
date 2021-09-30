@@ -1,6 +1,5 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome PeterKellett,
+Welcome
 
 # Project set up  
 ## Installs 
@@ -8,8 +7,8 @@ Welcome PeterKellett,
 - django-allauth  
 
 ## To run the project  
-1. In terminal window type 'cd mecana' (the file path should now be 'gitpod /workspace/mecama/mecama $' )  
-2. In terminal window type 'python3 manage.py runserver'  
+1. In terminal window type `cd mecana` (the file path should now be 'gitpod /workspace/mecama/mecama $' )  
+2. In terminal window type `python3 manage.py runserver`
 3. An options box should now pop up, click 'open browser' to proceed. 
 4. Allow for several refreshes for the page to load. It may not always be instant. 
 
