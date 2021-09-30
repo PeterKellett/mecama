@@ -1,11 +1,7 @@
 # mecama
-This is the initial repo for this project.
 
-
-Welcome
-
-# Project set up  
-## Installs 
+## Project set up  
+### Installs 
 - Django
 - django-allauth  
 
@@ -15,7 +11,7 @@ Welcome
 3. An options box should now pop up, click 'open browser' to proceed. 
 4. Allow for several refreshes for the page to load. It may not always be instant. 
 
-## Apps  
+### Apps  
 - Home  
 
 ## Gitpod Reminders
