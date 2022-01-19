@@ -3,7 +3,7 @@ $(document).ready(function(){
     const settings = {
       "async": true,
       "crossDomain": true,
-      "url": "https://api.nal.usda.gov/fdc/v1/foods/list?api_key=N3YkAytZba7As882lOsRbLUq12TCZBReq8bnUXlT&location=Denver+CO",
+      "url": "https://api.nal.usda.gov/fdc/v1/foods/list?api_key=",
       "method": "GET",
       
     };
